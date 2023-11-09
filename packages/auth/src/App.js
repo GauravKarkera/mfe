@@ -22,8 +22,6 @@ export default ({ history, onSignIn }) => {
                     </Route>
                 </Switch>
             </Router>
-
-
         </StylesProvider>
     </div>
 }
